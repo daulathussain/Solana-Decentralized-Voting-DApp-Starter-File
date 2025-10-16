@@ -6,7 +6,7 @@
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/G_3xz883Evg?si=Xgcq1goEr6DuVyCQ)
 
 Build & Deploy a Solana Decentralized Voting DApp | Rust + Anchor + Web3.js + Next.js | Full-Stack Blockchain Project
 
